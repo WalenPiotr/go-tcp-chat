@@ -1,2 +1,2 @@
 # go-tcp-chat
-## Simple tcp chat built with go
+Simple tcp chat built with go
